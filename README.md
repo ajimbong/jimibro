@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 😃 My name is Ajimsimbom Bong.
+- 👷‍♂️ I am a **'Tech-Bro'**.
+- 🌱 I’m currently learning Flutter.
+- 📫 How to reach me: [twitter](https://twitter.com/ajim_bong).
+- ⚡ Fun fact: Ehmm... I don't know.
 <!--
 **ajim-bong/ajim-bong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
