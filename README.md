@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😃 My name is Ajimsimbom Bong.
+- 😃 My name is Ajimsimbom Bong M...
 - 👷‍♂️ I am a **'Tech-Bro'**.
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: [twitter](https://twitter.com/ajim_bong).
